@@ -1,5 +1,7 @@
 import random
 
+
+
 '''STRUTTURA DATI DEL TRIS (corrisponde alla 'memoria')'''
 tabella = [['-', '-', '-'], ['-', '-', '-'], ['-', '-', '-']]
 mossa_pc = 'X'
