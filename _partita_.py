@@ -5,8 +5,8 @@ tabella = [['-', '-', '-'], ['-', '-', '-'], ['-', '-', '-']]
 mossa_pc = 'X'
 mossa_utente = 'O'
 
-'''FUNZIONI'''
 
+'''FUNZIONI'''
 #chiedi di inserire un numero
 def chiedi_index(nome):
     print("dimmi la " + nome + " (0-1-2): ", end="")
